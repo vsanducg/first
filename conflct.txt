@@ -1,3 +1,4 @@
 this is file is example for conflicts concept on jabn 27
 this is second line for confilcts test
-this is 3rd line for merge confilcts
+this is 3rd line for merge confilcts=
+this is 3 rd line for test
