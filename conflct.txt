@@ -1,4 +1,5 @@
 this is second line for confilcts test
 this is 3 rd line for test
 this is to test the diff file
-we are adding one more line to test 
+we are adding one more line to test
+this is used for git diff 
