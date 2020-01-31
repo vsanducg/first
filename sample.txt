@@ -1,4 +1,4 @@
 this is my first git file
 this is examle line for set url and adding key gen fiel
-this is next line to commit after username and maild cinfigured
- 
+this is next line to commit after username and 
+this is fourth line 
